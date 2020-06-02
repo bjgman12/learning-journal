@@ -22,12 +22,17 @@ Welcome to my Learning Journal. I am Brandon Gonzalez an Army vet taking a deep 
   - `*` for Italic
 - Unordered lists can be made with `+` `-` or `*`
 - Use HTML syntax for images to resize them inline
+- Use `[Displayed Text](url)` for links
+- Tables can be created using
+  -`header | header` following suit for the coloumns
 
 
 
 #### Contact Info and Links
-- **Email**: bjgman38@gmail.com
-- **Twitch**: [ZelaznogJamez](http://www.twitch.tv/zelaznogjames)
+
+**Email**|**Twitch** 
+---------|----------
+bjgman38@gmail.com|[ZelaznogJamez](http://www.twitch.tv/zelaznogjamez)
 
 
 
