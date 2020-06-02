@@ -1,2 +1,4 @@
-# learning-journal
-The Learning Journal of Brandon Gonzalez
+# The Learning Journal of Brandon Gonzalez
+
+
+##
