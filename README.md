@@ -16,9 +16,11 @@ Welcome to my Learning Journal. I am Brandon Gonzalez an Army vet taking a deep 
 1. Success is not a competition it is something to be celebrated and learned from.
 
 
+## Markdown Notes
+
 #### Contact Info and Links
-Email : bjgman38@gmail.com
-Twitch : [ZelaznogJames](http://www.twitch.tv/zelaznogjamez) 
+- Email : bjgman38@gmail.com
+- Twitch : [ZelaznogJames](http://www.twitch.tv/zelaznogjamez) 
 
 
 
