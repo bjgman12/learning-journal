@@ -9,7 +9,7 @@ Welcome to my Learning Journal. I am Brandon Gonzalez an Army vet taking a deep 
 ### Staying in the Growth Mindset
 1. Understand that nothing worthwhile will coem easily.
 1. Take and learn from constructive critisism.
-1. Success is not a competition it is comething to be celebrated and learned from.
+1. Success is not a competition it is something to be celebrated and learned from.
 
 
 
