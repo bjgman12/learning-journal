@@ -8,7 +8,7 @@ Welcome to my Learning Journal. I am Brandon Gonzalez an Army vet taking a deep 
  
 
 ## Growth Mindset
->Growth mindset is the concept that when in the correct mindset you can nurture your learning process to grow more effeciently and indefinently >
+> Growth mindset is the concept that when in the correct mindset you can nurture your learning process to grow more effeciently and indefinently!
 
 ### Staying in the Growth Mindset
 1. Understand that nothing worthwhile will coem easily.
@@ -17,11 +17,17 @@ Welcome to my Learning Journal. I am Brandon Gonzalez an Army vet taking a deep 
 
 
 ## Markdown Notes
+- Encapsulate text
+  - `**` for bold
+  - `*` for Italic
+- Unordered lists can be made with `+` `-` or `*`
+- Use HTML syntax for images to resize them inline
+
+
 
 #### Contact Info and Links
-- Email : bjgman38@gmail.com
-- Twitch : [ZelaznogJames](http://www.twitch.tv/zelaznogjamez) 
-
+- **Email**: bjgman38@gmail.com
+- **Twitch**: [ZelaznogJamez](http://www.twitch.tv/zelaznogjames)
 
 
 
