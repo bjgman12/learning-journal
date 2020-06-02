@@ -1,7 +1,7 @@
 # The Learning Journal of Brandon Gonzalez
 
 
-![Test](jump.jpg =50x50)
+![Test](jump.jpg | width=100)
 
 Welcome to my Learning Journal. I am Brandon Gonzalez an Army vet taking a deep dive into the life of coding. find my Page here : [BGonzalez](https://bjgman12.github.io/learning-journal)
 
