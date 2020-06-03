@@ -18,6 +18,7 @@
  
  ## Command Line
  
+ < img src="hackerman.png" alt txt="hackerman" width = 100px height = 100px>
 -text based interface with the system
 - type CMD into search bar or use software such as putty to remote an SSH connection to another machine
 - input is both case and space sensitive
