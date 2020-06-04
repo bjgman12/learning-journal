@@ -25,3 +25,16 @@
 - input is both case and space sensitive
 - directories and files can be both navigated and manipulated.
 
+## Terminal Commands
+
+- code. open cs vode with the current project
+- ls lists files in a directory
+- ls `-` a. a= all
+- ls `-`al long list formant
+- ls `-`la flag order does not matter
+- tree installed on you machine, displays file structure
+- pwd print working directory
+- cdwr windows specifig alias creater
+- mkdir makes a new directory
+- touch creates a file.
+
