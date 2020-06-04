@@ -1,5 +1,8 @@
 # Class 2
 
+-[Home](README.md)
+
+
 ## Text Editors
 
 > Text editors are programs that assist you in managing and creating text files.

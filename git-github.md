@@ -1,5 +1,8 @@
 ## Git vs Github notes
 
+-[Home](README.md)
+
+
 ## Version Control
 
 < Version control is a system that logs versions of a file or set fo files and allows you to revert to previous states.
