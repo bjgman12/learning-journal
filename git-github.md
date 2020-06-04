@@ -35,6 +35,7 @@
 - **git push [remote-name] branchname**
 - **git push origin master** will push changes to a remote repository.
 - **git fetch [remote-name]** will fetch changes so if you fetch from origin it will pull any updates pushed since last fetch.
+- **git pull origin master** pulls changes.
 
 ## Renaming and removign remotes
 
