@@ -3,27 +3,29 @@
 
 # HTML 
 - Hyper Text Markup Language
-  - Body
-  - header 
-  - footer 
-  - nav 
-  - div
-
-- tags 
-- attributes
-- semantic HTML
-- Content/Meta/Personas
+- **Semantic HTML** name implies function nav = navigation
+  - body
+    - **Content** -- goes inside of elements
+    - header 
+    - footer 
+    - nav 
+    - div
+- tags - opening and closing `<p>` content `</p>`
+- attributes -- examples: language,style(not advised),id,class,src,rel
+- .
+- Meta
+- Personas -- user demographicsgit 
 - Structure vs Presentation
 
 
-<HTML is the bones of the site
+HTML is the bones of the site
 
 
 ## HTML Reading NOTES
 
 ### Process and Design
 
-#### Who is the site for?
+### Who is the site for?
 
 ##### Target Audience
 
@@ -58,5 +60,5 @@
 
 - a simple sketch of the key elements of your site
 
-<img src="tplate.PNG" alt="wireframe exapmle" width="350" height="350">
+<img src="tplate.PNG" alt="wireframe exapmle" width="550" height="350">
 
