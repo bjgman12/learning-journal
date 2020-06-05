@@ -51,18 +51,12 @@
 
 ### Site Maps
 
-<important to think about what your visitors might aswsume about the sites layout>
+- important to think about what your visitors might aswsume about the sites layout
 
-
-         |          |   Home   |          |           
----------|----------|----------|----------|----------
-About    | PatchNotes| Builds  |Items     |champions 
-auto chess| most recent|popular|          |trait     
-TFT       | past      | off meta|         |trait     
 
 ### Wireframes
 
-< a simple sketch of the key elements of your site>
+- a simple sketch of the key elements of your site
 
-<img src="Template Brainstrom.PNG" alt="wireframe exapmle" width="350" height="350">
+<img src="tplate.PNG" alt="wireframe exapmle" width="350" height="350">
 
