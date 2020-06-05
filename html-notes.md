@@ -62,3 +62,21 @@ HTML is the bones of the site
 
 <img src="tplate.PNG" alt="wireframe exapmle" width="550" height="350">
 
+
+### Chapter 17 notes
+
+#### Articles
+
+- can be used to encapsulate any section of a page that could stand alone as content
+- can nest images headers paragraphs and mroe
+
+#### Asides
+
+- are used primarily for complementary content such as pullquotes on an article
+
+### Chapter 8
+
+- `<!-- this is comment syntax HTML-->`
+- IDs can be used for single out a single portion of your page
+- iframes are small windows in you page in which you can veiw a seperate page
+- ` <iframe width= height= src=></iframe>`
