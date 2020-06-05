@@ -7,6 +7,7 @@
 - [Markdown Notes](markdown-notes.md)
 - [Coders Computer](coders-computer.md)
 - [Git vs GitHub](git-github.md)
+- [HTML Notes](html-notes.md)
 
 
 
