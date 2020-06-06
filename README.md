@@ -9,6 +9,7 @@
 - [Git vs GitHub](git-github.md)
 - [HTML Notes](html-notes.md)
 - [CSS Notes](css-notes.md)
+- [JS Notes](javascript-notes.md)
 
 
 
