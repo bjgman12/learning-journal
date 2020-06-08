@@ -10,6 +10,7 @@
 - [HTML Notes](html-notes.md)
 - [CSS Notes](css-notes.md)
 - [JS Notes](js-notes.md)
+- [Childrens Video Notes](logic-notes.md)
 
 
 
